@@ -25,8 +25,7 @@ License to use: If you would like to use this potential please cite the followin
 
 # Citation:
 
-```
- Berk Onat, Ekin D. Cubuk, Brad D. Malone, and Efthimios Kaxiras, "Implanted neural network potentials: Application to Li-Si alloys", Phys. Rev. B 97, 094106
-```
+ - Berk Onat, Ekin D. Cubuk, Brad D. Malone, and Efthimios Kaxiras, "Implanted neural network potentials: Application to Li-Si alloys", Phys. Rev. B 97, 094106
+
 
 # Installation
