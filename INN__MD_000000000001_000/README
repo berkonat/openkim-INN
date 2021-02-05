@@ -1,0 +1,43 @@
+/*                                                                            */
+/* CDDL HEADER START                                                          */
+/*                                                                            */
+/* The contents of this file are subject to the terms of the Common           */
+/* Development and Distribution License Version 1.0 (the "License").          */
+/*                                                                            */
+/* You can obtain a copy of the license at                                    */
+/* http://www.opensource.org/licenses/CDDL-1.0.  See the License for the      */
+/* specific language governing permissions and limitations under the License. */
+/*                                                                            */
+/* When distributing Covered Code, include this CDDL HEADER in each file and  */
+/* include the License file in a prominent location with the name             */
+/* LICENSE.CDDL.                                                              */
+/*                                                                            */
+/* CDDL HEADER END                                                            */
+/*                                                                            */
+/* Copyright (c) 2014, Harvard University.                                    */
+/* All rights reserved.                                                       */
+/* All rights of this application are governed by the policies of             */
+/* Harvard University, including Harvard’s “Statement of Policy in Regard to  */
+/* Intellectual Property” (the “IP Policy”)                                   */
+/* http://www.otd.harvard.edu/resources/policies/IP/                          */
+/*                                                                            */
+/* Contributors:                                                              */
+/*         Berk Onat                                                          */
+/*         Ekin D. Cubuk                                                      */
+/*         Brad Malone                                                        */
+/*         Efthimios Kaxiras                                                  */
+/*                                                                            */
+/*                                                                            */
+
+This MODEL DRIVER implementation of the INN model computes energy, forces, and virial using the CLUSTER, NEIGH_PURE_F, or MI_OPBC_F NBC methods.
+
+-----------------------------------------
+A note on how this model is implemented:
+
+
+The publication can be found at:
+
+     Berk Onat, Ekin D. Cubuk, Brad D. Malone, and Efthimios Kaxiras, "Implanted neural network potentials: Application to Li-Si alloys", Phys. Rev. B 97, 094106
+
+Written by Berk Onat (2014-2016 Harvard University). Current contact email: bonat@warwick.ac.uk
+

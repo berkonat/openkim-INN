@@ -1,0 +1,7 @@
+{"description" ""
+ "disclaimer" ""
+ "domain" "openkim.org"
+ "kim-api-version" "1.7"
+ "extended-id" "INN__MD_000000000001_000"
+ "source-citations" "Berk Onat"
+ "title" "The INN potential driver based on C, C++, Lua, and Torch7"}
